@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 20;
+}
+.section_one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+}
+.section_onee{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.rcp-one{
+    display: inline-block;
+    margin: 20px;
+    border: solid black 6px;
+    
+}
+
+.rcp-two{
+    display: inline-block;
+    margin: 20px;
+    border: solid black 6px;
+}
+
+.rcp-three{
+    display: inline-block;
+    margin: 20px;
+    border: solid black 6px;
+}
+
+.rcp-four{
+    display: inline-block;
+    margin: 10px;
+    border: solid black 6px;
+}
+.contt{
+    margin: 20px;
+}
+.btn{
+    padding: 5px;
+    color:white;
+    background-color: black;
+    margin-bottom: 5px;
+    margin-top: 5px;
+
+}
+.section_2{
+    padding: 30px;
+    background-color: black;
+    color: white;
+    
+}
+.section_22{
+    padding: 20px;
+}
+.butt_2{
+   margin-top: 10px;
+   background-color: yellow;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 90px;
+   padding-right: 90px;
+
+}
